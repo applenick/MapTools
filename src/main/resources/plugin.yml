@@ -1,0 +1,5 @@
+name: MapTools
+description: ${project.description}
+main: tc.oc.occ.maptools.MapTools
+version: ${project.version}
+author: ${project.author}
